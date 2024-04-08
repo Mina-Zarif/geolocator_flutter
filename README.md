@@ -1,4 +1,4 @@
-# maps
+# geolocator_flutter
 
 A new Flutter project.
 
